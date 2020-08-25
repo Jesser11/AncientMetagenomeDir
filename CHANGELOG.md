@@ -66,6 +66,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Devault 2014 10.1056/NEJMoa1308663
 - Kay 2015 10.1038/ncomms7717
 - van Dorp 2020 10.1093/molbev/msz264
+- Yoshida 2013 10.7554/eLife.00731.002
 
 #### Ancient Metagenome: Environmental
 
